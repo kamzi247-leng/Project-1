@@ -1,5 +1,4 @@
-#This is day 1 of ny python journey
+#My ML & AI engineering journey
 
+Starting this journey with the basics of python
 
-
-#On my way to ML&AI engineering
